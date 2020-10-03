@@ -1,4 +1,0 @@
-1. numpy
-2. pandas
-3. sklearn
-4. streamlit
